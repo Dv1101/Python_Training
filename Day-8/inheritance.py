@@ -11,7 +11,6 @@ class C(B):
         c = B()
         c.helloo()
         c.hi()
-        
 
 p1 = C()
 p1.dhruv()
